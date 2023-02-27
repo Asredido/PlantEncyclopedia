@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(173, 209, 173);
+}
+header {
+  font-size: 80%;
+}
+main {
+  font-size: 100%;
+}
+a {
+  background-color: rgb(37, 73, 33);
+  padding: 5px;
+  border: solid;
+  text-decoration: none;
+  color: rgb(96, 153, 99);
+}
+p {
+  background-color: rgb(106, 170, 106);
+  border: solid rgb(56, 105, 56);
+  padding: 4px;
+  font-size: 130%;
+}
+
+#about {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}

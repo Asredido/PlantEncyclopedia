@@ -1,0 +1,34 @@
+body{
+  background-color: rgb(173, 209, 173);
+}
+
+h1 {
+  background-color: honeydew;
+  padding: 6px;
+  margin-top: 50px;
+  margin-right: 20%;
+  text-align: center;
+}
+a {
+  background-color: rgb(37, 73, 33);
+  border: solid;
+  color: rgb(96, 153, 99);
+  text-decoration: none;
+  padding: 5px;
+}
+p {
+  background-color: rgb(196, 236, 196);
+  border: solid;
+  color: rgb(56, 80, 57);
+  padding: 5px;
+}
+div {
+  display: flex;
+  flex-direction: row;
+  padding: 4px;
+  justify-content: space-around;
+}
+#GWL {
+  background-image:
+  url("giantwaterlily.jpg")
+}
