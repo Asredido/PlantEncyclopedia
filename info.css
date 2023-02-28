@@ -16,18 +16,16 @@ a {
   text-decoration: none;
   padding: 5px;
 }
-p {
-  background-color: rgb(196, 236, 196);
-  border: solid;
-  color: rgb(56, 80, 57);
-  padding: 5px;
-}
-div {
-  display: flex;
-  flex-direction: row;
+section {
+  background-color: honeydew;
+  margin-right: 40%;
+  margin-bottom: 10px;
+  border: solid rgb(60, 99, 60);
   padding: 4px;
-  justify-content: space-around;
 }
-#GWL {
-
+img {
+  display: flex;
+}
+#source {
+  text-decoration: underline;
 }

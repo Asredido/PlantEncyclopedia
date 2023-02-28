@@ -8,11 +8,14 @@ main {
   font-size: 100%;
 }
 a {
+  font-size: larger;
   background-color: rgb(37, 73, 33);
-  padding: 5px;
+  padding: 15px;
   border: solid;
   text-decoration: none;
   color: rgb(96, 153, 99);
+  margin-left: 40%;
+
 }
 p {
   background-color: rgb(106, 170, 106);
@@ -26,4 +29,5 @@ p {
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
+
 }
